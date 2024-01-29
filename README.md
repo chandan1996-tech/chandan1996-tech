@@ -8,4 +8,3 @@
 chandan1996-tech/chandan1996-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Resume_2022-07-13_716304_1657664538810_Chandan B M.pdf](https://github.com/chandan1996-tech/chandan1996-tech/files/9173486/Resume_2022-07-13_716304_1657664538810_Chandan.B.M.pdf)
